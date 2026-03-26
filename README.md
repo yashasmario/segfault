@@ -5,6 +5,12 @@
 **segfault** detects dependency version bumps, extracts breaking changes using an LLM, statically analyzes your codebase to find affected callsites, and surfaces everything in an interactive TUI.
 
 ---
+<img width="1470" height="956" alt="Screenshot 2026-03-26 at 12 19 11" src="https://github.com/user-attachments/assets/1756b7fe-314b-44e5-9132-d09357ca5f0d" />
+
+<img width="1470" height="956" alt="Screenshot 2026-03-26 at 12 19 51" src="https://github.com/user-attachments/assets/3663c0b7-892c-4dd7-ad39-7d4d9701b913" />
+
+<img width="1470" height="956" alt="Screenshot 2026-03-26 at 12 20 16" src="https://github.com/user-attachments/assets/f2108264-2524-48df-af45-b65117b284e2" />
+
 
 ## The Pipeline
 
